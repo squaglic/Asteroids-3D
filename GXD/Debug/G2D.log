@@ -1,9 +1,5 @@
 ﻿  Demo99nuits.cpp
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(54,24): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(54,20): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(57,22): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(110,12): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(133,29): warning C4305: 'argument' : troncation de 'double' à 'float'
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(138,31): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
-C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(138,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(70,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(169,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Demo99nuits.cpp(188,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
   G2D.vcxproj -> C:\Users\Pilou\Documents\Ecole\E3FD\c++\2025GXD\Debug\GXD.exe
